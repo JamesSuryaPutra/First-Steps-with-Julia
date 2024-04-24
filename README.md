@@ -9,6 +9,12 @@ Both tutorials show that it is easy to write code in Julia, due to its intuitive
 
 This tutorial focuses on the task of identifying characters from Google Street View images. It differs from traditional character recognition because the data set contains different character fonts and the background is not the same for all images.
 
+# Acknowledgements
+The data was taken from the Chars74K dataset, which consists of images of characters selected from Google Street View images. We ask that you cite the following reference in any publication resulting from your work:
+T. E. de Campos, B. R. Babu and M. Varma, Character recognition in natural images, Proceedings of the International Conference on Computer Vision Theory and Applications (VISAPP), Lisbon, Portugal, February 2009.
+
+This tutorial was developed by Luis Tandalla during his summer 2014 internship at Kaggle.
+
 # Evaluation
 Your model should identify the character in each image in the test set. The possible characters are 'A-Z', 'a-z', and '0-9'. 
 
