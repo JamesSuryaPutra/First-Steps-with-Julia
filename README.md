@@ -22,4 +22,5 @@ This tutorial was developed by Luis Tandalla during his summer 2014 internship a
 Your model should identify the character in each image in the test set. The possible characters are 'A-Z', 'a-z', and '0-9'. 
 
 The predictions will be evaluated using Classification Accuracy:
-Accuracy = ∑Ni=1truei=predictioni / N
+
+![classification_accuracy](https://github.com/JamesSuryaPutra/First-Steps-with-Julia/assets/155945814/f5c88ef7-89d1-4c38-8893-088a6b6d5b0b)
